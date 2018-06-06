@@ -1,2 +1,2 @@
-# Petey-s-Picnic-People
+# Peteys-Picnic-Party
 Game for children with Autism
